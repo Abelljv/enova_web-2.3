@@ -1,0 +1,73 @@
+body{
+    padding: 0px;
+    margin: 0px;
+   font-family: 'Open Sans Condensed', sans-serif;
+   background-color: #f9f9f9;
+}
+h3{
+  margin-top: 25px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: #000;
+}
+.formulario{margin-top: 8%;}
+.titulo{margin-top: 25px;}
+
+fieldset.scheduler-border {
+    border: 1px groove #ddd !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000;
+}
+input[type="text"],[type="number"]{
+  background-color: #f9f9f9;
+}
+
+legend.scheduler-border {
+  width: auto;
+}
+
+form{
+	padding: 25px;
+	box-sizing: border-box;
+	border:1px solid #eee;
+	margin:30px auto;
+	background-color: white;
+}
+
+.button{
+	margin: 10px auto;
+	width: auto;
+	box-sizing: border-box;
+  font-size: 16px;
+}
+.boton{
+	text-align: center;
+}
+/* layout.css Style */
+
+
+
+.file-preview-input {
+    position: relative;
+    overflow: hidden;
+    margin: 0px;    
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;    
+}
+.file-preview-input:hover{
+   background-color: #ededed;
+}
+.file-preview-input input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+a{color: #fff;}

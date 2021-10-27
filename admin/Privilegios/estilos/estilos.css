@@ -1,0 +1,328 @@
+.com_titulo {
+	font-family: verdana;
+	font-size: 24px;
+	color: #990000;
+	font-weight: bold;
+	display : bloque;
+	white-space : pre;
+	text-align: left;
+	margin-left:0px;
+	
+}
+.com_titulo2 {
+	font-family: verdana;
+	font-size: 18px;
+	color: #990000;
+	font-weight:bold;
+	display : bloque ; 
+white-space : pre ;
+}
+
+.com3 {
+	font-family: verdana;
+	font-size: 15px;
+	color: #F00;
+	font-weight:bold;
+	border: 1px solid #F00;
+	
+	
+	
+}
+
+.com2 {
+	font-family: verdana;
+	font-size: 15px;
+	color: #000000;
+	font-weight:bold;
+	
+}
+
+.com4 {
+	font-family: verdana;
+	font-size: 13px;
+	color: #F00;
+	font-weight:bold;
+	border: 1px solid #F00;
+	
+}
+
+.com {
+	font-family: verdana;
+	font-size: 13px;
+	color: #000000;
+	
+}
+
+.obligatorio {
+	font-family: verdana;
+	font-size: 13px;
+	color: #000000;
+	border: 1px solid #F00;
+	
+	
+	
+}
+
+.obligatorio2 {
+	font-family: verdana;
+	font-size: 13px;
+	color: #000000;
+	border: 1px solid  #999;
+	
+	
+	
+}
+.Estilo1 {font-size: 13px}
+
+.error {
+	font-family: verdana;
+	font-size: 11px;
+	color: #FF0000;
+}
+
+.verde {
+	font-family: verdana;
+	font-size: 13px;
+	color: #499B21;
+	font-weight: bold;
+}
+
+.azul {
+	font-family: verdana;
+	font-size: 13px;
+	color: #054092;
+	font-weight: bold;
+}
+
+.rojo {
+	font-family: verdana;
+	font-size: 13px;
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.azul2 {
+	font-family: verdana;
+	font-size: 13px;
+	color: #054092;
+	
+}
+
+.bold {
+	font-family: verdana;
+	font-size: 13px;
+	color: #000000;
+	font-weight: bold;
+}
+
+.r_fun {
+	font-family: verdana;
+	font-size: 16px;
+	color: #ED2E5A;
+	font-weight: bold;
+}
+
+.r_fun2 {
+	font-family: verdana;
+	font-size: 13px;
+	color: #ED2E5A;
+
+}
+
+.a_fun {
+	font-family: verdana;
+	font-size: 16px;
+	color: #007CC1;
+	font-weight: bold;
+}
+
+
+.boldRedf {
+	font-family: verdana;
+	font-size: 13px;
+	color: #E3001A;
+	font-weight: bold;
+}
+
+
+.white {
+	font-family: verdana;
+	font-size: 11px;
+	color: #FFFFFF;
+	
+}
+
+.white2 {
+	font-family: verdana;
+	font-size: 13px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.error2 {
+	font-family: verdana;
+	font-size: 13px;
+	color: #FF0000;
+}
+
+.good {
+	font-family: verdana;
+	font-size: 13px;
+	color: #006600;
+}
+
+.ad {
+	font-family: verdana;
+	font-size: 13px;
+	color: #FF6600;
+}
+
+.boton_enviar{
+        font-size:13px;
+        font-family:Verdana,Helvetica;
+		font-weight: bold;
+        color:white;
+        background:#3442FF;
+        border:0px;
+        width:115px;
+        height:23px;
+		}
+
+.boton{
+        font-size:13px;
+        font-family:Verdana,Helvetica;
+		font-weight: bold;
+        color:white;
+        background:#3442FF;
+        border:0px;
+        width:90px;
+        height:23px;
+		}
+		
+.boton2{
+        font-size:13px;
+        font-family:Verdana,Helvetica;
+		font-weight: bold;
+        color:white;
+        background:#ED2E5A;
+        border:0px;
+        width:130px;
+        height:23px;
+		}
+		
+.listas{
+        font-size:13px;
+        font-family:Verdana,Helvetica;
+		color:black;
+        background:#FFFFFF;
+        border:0px;
+        width:250px;
+        height:23px;
+		}	
+		
+.listas2{
+        font-size:13px;
+        font-family:Verdana,Helvetica;
+		color:black;
+        background:#FFFFFF;
+        border:0px;
+        width:300px;
+        height:23px;
+		}			
+.listas3{
+        font-size:13px;
+        font-family:Verdana,Helvetica;
+		color:black;
+        background:#FFFFFF;
+        border:0px;
+        width:350px;
+        height:23px;
+		}	
+.cajas{
+         font-size:13px;
+        font-family:Verdana,Helvetica;
+border-style: solid;
+border-width: 1px;
+color: #000000;
+border-color: #3442FF;
+
+		}	
+		
+.cajas1{
+         font-size:13px;
+        font-family:Verdana,Helvetica;
+border-style: solid;
+border-width: 1px;
+color: #000000;
+border-color: #F00;
+       
+		}			
+		
+.cajas_list{
+         font-size:13px;
+        font-family:Verdana,Helvetica;
+border-style: solid;
+border-width: 1px;
+color: #000000;
+border-color: #F00;
+font-family: verdana;
+	font-size: 15px;
+	color: #F00;
+	font-weight:bold;
+       
+		}
+		
+.boton_nuevo{
+  background:#e5e5e5;
+  display:inline-block;
+  margin:0 6px;
+  padding:7px 20px 7px;
+  color:#333;
+  font:400 14px 'Verdana';
+  text-decoration:none;
+  text-shadow: 0 1px 1px #FFF;
+  border:1px solid #990000;
+
+  /* Bordes redondenados - Border Radius */
+  -webkit-border-radius:4px;
+  -moz-border-radius:4px;
+  border-radius:4px;
+
+  /* Fondo Degradado - Background Gradient */
+  background:-webkit-linear-gradient(top, #fefefe, #e5e5e5); /* Chrome 10+ */
+  background:   -moz-linear-gradient(top, #fefefe, #e5e5e5); /* Firefox 3.6+ */
+  background:    -ms-linear-gradient(top, #fefefe, #e5e5e5); /* IE10 */
+  background:        linear-gradient(top, #fefefe, #e5e5e5); 
+  
+  /* Aplcamos sombras al boton - Box Shadow */
+  -webkit-box-shadow:inset 0 1px 0 rgba(255,255,255, .3), inset 0 0 0 1px rgba(255,255,255, .6), 0 1px 2px rgba(0, 0, 0, .1);
+  -moz-box-shadow:inset 0 1px 0 rgba(255,255,255, .3), inset 0 0 0 1px rgba(255,255,255, .6), 0 1px 2px rgba(0, 0, 0, .1);
+  box-shadow:inset 0 1px 0 rgba(255,255,255, .3), inset 0 0 0 1px rgba(255,255,255, .6), 0 1px 2px rgba(0, 0, 0, .1);
+
+  /* Animacion - Transition */
+  -webkit-transition: all ease-in-out .3s;
+  -moz-transition: all ease-in-out .3s;
+  transition: all ease-in-out .3s;
+}
+.boton_nuevo:hover{
+  border-color:#adcce2; /* Modificamos el color del borde */
+
+  /* Cambiamos los colores del fondo degradado */
+  background:-webkit-linear-gradient(top, #fefefe, #f1f1f1); /* Chrome 10+ */
+  background:   -moz-linear-gradient(top, #fefefe, #f1f1f1); /* Firefox 3.6+ */
+  background:    -ms-linear-gradient(top, #fefefe, #f1f1f1); /* IE10 */
+  background:        linear-gradient(top, #fefefe, #f1f1f1);
+  
+  /* Modificamos las propiedades del Box Shadow para un efecto Glow */
+  -webkit-box-shadow:inset 0 1px 0 rgba(255,255,255, .3), inset 0 0 0 1px rgba(255,255,255, .6), 0 1px 6px rgba(36, 168, 229, .3);
+  -moz-box-shadow:inset 0 1px 0 rgba(251,247,193, .3), inset 0 0 0 1px rgba(251,247,193, .3), 0 1px 6px rgba(36, 168, 229, .3);
+  box-shadow:inset 0 1px 0 rgba(251,247,193, .3), inset 0 0 0 1px rgba(251,247,193, .3), 0 1px 6px rgba(36, 168, 229, .3);
+}
+
+.ui-autocompletar {
+		font-weight: bold;
+		padding: .2em .4em;
+		margin: .8em 0 .2em;
+		line-height: 1.5;
+		font-size:12px;
+}

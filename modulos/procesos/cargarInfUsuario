@@ -1,0 +1,31 @@
+ <?php
+include'../conexion/conexion.php';
+
+/*Variables*/
+<?php
+$nombre=$_POST['NombredeUsuario'];
+$apellido=$_POST['apellidodeUsuario']);
+$correo=$_POST['CorreoElectronico'];
+$password=sha1($_POST['ContraseñadeUsuario'];
+$ciudad=$_POST['Ciudad de Usuario'];
+$activo = 1;
+
+
+   $insertar = "INSERT INTO admin(id, nombre, apellido, correo, password, ciudad, activo) VALUES ('$id','$nombre',
+     '$apellido','$correo','$password','$ciudad','$activo')";
+
+      $result = mysqli_query($mysqli, $insertar);
+
+	 
+
+
+ if(!$result){
+     echo '<script> alert("Error al cargar la informacion del producto");</script>';
+	}else{
+		 echo '<script> alert("Registro Exitoso");</script>';
+    	 echo '<script language="javascript">
+     window.location="../../uploadInfo/usuarios/listar_usuarios.php"</script>;';
+     
+		
+	}
+    mysqli_close($mysqli);
